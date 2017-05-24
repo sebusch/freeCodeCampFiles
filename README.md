@@ -34,8 +34,9 @@ Challenge | Link(s) | Files Hosted here
 [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) | [heroku](https://sebusch-url.herokuapp.com/) / [github](https://github.com/sebusch/url-shortener) |
 [Image Search Abstraction Layer](https://www.freecodecamp.com/challenges/image-search-abstraction-layer) | [heroku](https://sebusch-img-sal.herokuapp.com/) / [github](https://github.com/sebusch/img-sal) |
 [File Metadata Microservice](https://www.freecodecamp.com/challenges/file-metadata-microservice) | [heroku](https://sebusch-file-meta.herokuapp.com/) / [github](https://github.com/sebusch/file-meta) |
-All API Projects combined | [github](https://github.com/sebusch/fcc-api) |
+All API Projects combined | [glitch](https://seb-api.glitch.me/) / [edit-glitch](https://glitch.com/edit/#!/seb-api) / [github](https://github.com/sebusch/fcc-api/tree/glitch) |
 **Backend Development: Dynamic Web App Projects**||
+Combined projects | [glitch](https://seb-webapps.glitch.me/) / [edit-glitch](https://glitch.com/edit/#!/seb-webapps) / [github](https://github.com/sebusch/fcc-webApps/tree/glitch)|
 [Build a Voting App](https://www.freecodecamp.com/challenges/build-a-voting-app) ||
 [Build a Nightlife Coordination App](https://www.freecodecamp.com/challenges/build-a-nightlife-coordination-app) ||
 [Chart the Stock Market](https://www.freecodecamp.com/challenges/chart-the-stock-market) ||
